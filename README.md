@@ -1,6 +1,6 @@
 ## Java Goof
 
-Editado by Eduardo
+Editaded by Eduardo
 
 This is a collection of Java demo apps that are vulnerable in different ways.
 
