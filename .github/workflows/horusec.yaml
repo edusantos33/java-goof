@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
       with: # Necessário quando habilitado o autores de commit
         fetch-depth: 0
     - name: Running Horusec Security
